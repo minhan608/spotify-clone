@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.audio-player{
+  background-color: #0f172a !important;
+  height: 6rem;
+}
+.rhap_time, rhap_current-time{
+  color:white !important;
+}
+.rhap_button-clear, rhap_main-controls-button, rhap_play-pause-button{
+  color:white !important;
+}
